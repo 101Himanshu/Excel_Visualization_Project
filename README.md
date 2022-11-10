@@ -1,5 +1,5 @@
 # Excel_Visualization_Project
-### This project includes all of the essential charts based on the data requirements. So that stackholders can comprehend data from every angle.
+### According to the data requirements, this project comprises all necessary charts. so that info can be understood by stackholders from all angles.
 
 >> Some screenshots...
 
